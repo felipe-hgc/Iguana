@@ -2,9 +2,28 @@ body{
     background-color: black;
 }
 
-/*h1{
-    color: white;
-}*/
+h1{
+  text-align: center;
+  font: normal normal medium 50px/59px Raleway;
+  letter-spacing: 0px;
+  color: #FFFFFF;
+  opacity: 1;;
+}
+
+h2{
+  text-align: center;
+font: normal normal medium 40px/47px Raleway;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+
+h4{
+  text-align: center;
+font: normal normal 300 20px/24px Raleway;
+letter-spacing: 0px;
+color: 
+}
 
 .div1{
 text-align: center;
